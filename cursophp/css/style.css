@@ -1,0 +1,44 @@
+body{
+    background: blueviolet;
+    background: -webkit-linear-gradient(to right, blue, red);
+    background: linear-gradient(to right, yellow,orange );
+}
+
+h1, p, a{
+    font-family:'Courier New', Courier, monospace;
+    display: block;
+    text-align: center;
+    line-height: 8;
+    color: white;
+}
+
+.contenido{
+    max-width: 1200px;
+    margin: 5rem auto 0 auto;
+    color: white;
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+a{
+    font-size: 1.4rem;
+}
+
+p{
+    font-size: 2.2rem;
+}
+
+.hastag{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2rem;
+}
+
+.resultado{
+    margin-top: 10rem;
+    text-align: left;
+    font-size: 2rem;
+}
